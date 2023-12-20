@@ -16,7 +16,6 @@ time.from("#left h1", {
     duration:1,
     stagger:0.3
 })
-
 time.from("#right img", {
     scale:0,
     opacity:0,
